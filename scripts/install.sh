@@ -34,7 +34,7 @@ APPLIANCE_SNAP_COMMON_DIR="/var/snap/anbox-cloud-appliance/common"
 GAMES="bombsquad mindustry"
 BOMBSQUAD_DOWNLOAD_URL="https://files.ballistica.net/bombsquad/builds/old/BombSquad_Android_Generic_1.7.1.apk"
 BOMBSQUAD_PKG_ARCH="universal"
-MINDUSTRY_DOWNLOAD_URL="https://f-droid.org/repo/io.anuke.mindustry_104.apk"
+MINDUSTRY_DOWNLOAD_URL="https://d-e03.winudf.com/b/XAPK/Y29tLnJvYmxveC5jbGllbnRfMTUxMl82MDJlNGYxYw?_fn=Um9ibG94XzIuNTkxLjYzNF9BcGtwdXJlLnhhcGs&_p=Y29tLnJvYmxveC5jbGllbnQ%3D&download_id=1837200458039580&is_hot=true&k=d9cf3c624907914679acad3f60b15c2b64f55f84&uu=https%3A%2F%2Fd-12.winudf.com%2Fb%2FXAPK%2FY29tLnJvYmxveC5jbGllbnRfMTUxMl82MDJlNGYxYw%3Fk%3D7e545feafd10626d6a37f52fa65126cd64f55f84"
 MINDUSTRY_PKG_ARCH="universal"
 
 print_help() {
