@@ -34,7 +34,7 @@ APPLIANCE_SNAP_COMMON_DIR="/var/snap/anbox-cloud-appliance/common"
 GAMES="bombsquad mindustry"
 BOMBSQUAD_DOWNLOAD_URL="https://files.ballistica.net/bombsquad/builds/old/BombSquad_Android_Generic_1.7.1.apk"
 BOMBSQUAD_PKG_ARCH="universal"
-MINDUSTRY_DOWNLOAD_URL="https://f-droid.org/F-Droid.apk"
+MINDUSTRY_DOWNLOAD_URL="https://f-droid.org/repo/de.chagemann.regexcrossword_30.apk"
 MINDUSTRY_PKG_ARCH="universal"
 
 print_help() {
